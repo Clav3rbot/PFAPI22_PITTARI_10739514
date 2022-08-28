@@ -1,4 +1,4 @@
-# PFAPI22_-pittari-_-10739514-
+# PFAPI22_PITTARI_10739514
 Repository for Algorithms and Data Structures exam final test.
 
 • The aim of this  project is to create a system that, at its heart, checks the correspondence between the letters of 2 words of equal length.
